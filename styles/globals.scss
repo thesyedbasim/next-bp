@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+:root {
+	// Color
+	--color-white: #fff;
+	--color-black: #000;
+
+	// Font
+	--font-family: sans-serif;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: var(--font-family);
+}
+
+.hidden {
+	display: none;
+}
