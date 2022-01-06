@@ -1,4 +1,4 @@
-# Nexjs Boilerplate code
+# Nextjs Boilerplate code
 
 Custom boilerplate code for creating nextjs-app. This boilerplate code is for TypeScript and SCSS users.
 
